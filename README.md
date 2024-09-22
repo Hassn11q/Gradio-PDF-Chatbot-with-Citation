@@ -50,4 +50,4 @@ You can obtain your Cohere API key from [Cohere Dasboard](https://dashboard.cohe
 To run the chatbot, open the Jupyter Notebook file app.ipynb and execute the cells. The Gradio interface will launch, allowing you to interact with the chatbot.
 
 ## Screenshot
-![DSPY Chatbot Screenshot](./images/screenshot.png)
+![DSPY Chatbot Screenshot](images/Screenshot.png)
