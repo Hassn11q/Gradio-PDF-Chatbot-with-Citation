@@ -1,4 +1,4 @@
-# PDF Chatbot with Citation
+# Chatbot with Citation
 
 ## Description
 
