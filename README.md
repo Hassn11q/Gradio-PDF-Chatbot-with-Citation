@@ -9,22 +9,13 @@ chatbot leverages embeddings, document loading, and retrieval systems to provide
 - Chatbot interface powered by Gradio
 - Document processing using Langchain
 - Semantic chunking for improved understanding
+- Hybrid Search for better results 
 - Integration with Qdrant for vector storage and retrieval
 - Supports PDF document ingestion
 - Powered by DSPy for retrieval-augmented generation
 
 
 ## Requirements
-
-This project requires the following Python packages:
-
-- `gradio`
-- `python-dotenv`
-- `langchain-experimental`
-- `langchain-cohere`
-- `langchain-community`
-- `qdrant-client`
-- `dspy`
 
 You can install the required packages using the following command:
 
